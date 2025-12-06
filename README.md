@@ -94,9 +94,3 @@ Trained using SVC().
 * Accuracy: **96–100%**
 * Confusion matrix
 * Classification report
-
----
-### 2️⃣ Install dependencies:
-
-pip install -r requirements.txt
-```
