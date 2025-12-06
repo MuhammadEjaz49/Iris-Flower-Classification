@@ -96,43 +96,7 @@ Trained using SVC().
 * Classification report
 
 ---
-
-## 🌐 **Streamlit App**
-
-A simple & interactive web app allows users to input custom flower measurements and get predictions instantly.
-
-### ▶ Run the app locally:
-
-```
-streamlit run streamlit_app.py
-```
-
----
-
-## 📥 **Installation**
-
-### 1️⃣ Clone the repository:
-
-```
-git clone https://github.com/your-username/iris-flower-classification.git
-```
-
 ### 2️⃣ Install dependencies:
 
-```
 pip install -r requirements.txt
 ```
-
-### 3️⃣ Run Jupyter Notebook:
-
-```
-jupyter notebook
-```
-
----
-
-## 📊 **Results**
-
-* High accuracy
-* Very low misclassification
-* Clear visual representation of flower clusters
